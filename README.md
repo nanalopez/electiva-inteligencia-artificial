@@ -43,3 +43,4 @@ Función de pérdida:
 
 Métrica:
 - MAE
+<img width="1189" height="390" alt="Unknown" src="https://github.com/user-attachments/assets/2f0ba47d-5309-4130-9783-29b533cadf36" />
